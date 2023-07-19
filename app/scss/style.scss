@@ -1,0 +1,19 @@
+ .svg-cal-dims { width: 18px; height: 18px; }
+ .svg-f-dims { width: 10px; height: 19px; }
+ .svg-in-dims { width: 16px; height: 16px; }
+ .svg-logo-dims { width: 192px; height: 35px; }
+ .svg-phone-dims { width: 24px; height: 25px; }
+ .svg-t-dims { width: 18px; height: 16px; }
+
+._container {
+   max-width: 1240px;
+   margin: 0 auto;
+   padding: 0 20px;
+}
+body {
+   display: flex;
+   flex-direction: column;
+}
+main {
+   flex:1 1 100%;
+}
